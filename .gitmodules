@@ -1,11 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/nfrerebeau/nfrerebeau.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "odyssey"]
 	path = odyssey
 	url = https://github.com/nfrerebeau/odyssey
-	shallow = true
 	branch = main
-	registered = true
