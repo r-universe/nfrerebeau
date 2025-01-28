@@ -4,5 +4,5 @@
 	branch = HEAD
 [submodule "odyssey"]
 	path = odyssey
-	url = https://github.com/nfrerebeau/odyssey
+	url = https://codeberg.org/nfrerebeau/odyssey
 	branch = main
